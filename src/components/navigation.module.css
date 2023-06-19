@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+
+*{
+    color: white;
+}
+
+
+.heading {
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: large;
+    font-size: 50px;
+    -webkit-font-smoothing: antialiased;
+    color: white;
+}
+
+.heroHeading {
+    font-size: large;
+    font-size: 50px;
+    -webkit-font-smoothing: antialiased;
+    color: white;
+}
+
+.hero{
+    background-color: #202020;
+    color: white;
+}
+
+.heroTag{
+    font-size: 20px;
+}
